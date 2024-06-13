@@ -1,6 +1,6 @@
 # About Us
 
-Welcome to [Company Name]!
+Welcome to Next Prompt !
 
 We are an AI-driven company dedicated to revolutionizing the way people tackle challenges in niche fields. At [Company Name], we harness the power of artificial intelligence to develop innovative solutions that simplify complex tasks, enhance productivity, and drive success.
 
