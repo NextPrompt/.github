@@ -1,6 +1,7 @@
 # About Us
 
 Welcome to Next Prompt !
+https://www.nextprompt.io/
 
 We are an AI-driven company dedicated to revolutionizing the way people tackle challenges in niche fields. At Next Prompt, we harness the power of artificial intelligence to develop innovative solutions that simplify complex tasks, enhance productivity, and drive success.
 
