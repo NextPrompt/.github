@@ -24,4 +24,4 @@ Our vision is to be the leading provider of AI solutions that address the unique
 
 Join us on our journey to transform the way you work. Together, we can solve the unsolvable and achieve the extraordinary.
 
-Explore our projects, contribute, and collaborate with us on [GitHub](https://github.com/your-company). Let's harness the power of AI to unlock new possibilities and drive success in your niche field.
+Explore our projects, contribute, and collaborate with us on [GitHub](https://github.com/NextPrompt). Let's harness the power of AI to unlock new possibilities and drive success in your niche field.
