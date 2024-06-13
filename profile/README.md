@@ -2,7 +2,7 @@
 
 Welcome to Next Prompt !
 
-We are an AI-driven company dedicated to revolutionizing the way people tackle challenges in niche fields. At [Company Name], we harness the power of artificial intelligence to develop innovative solutions that simplify complex tasks, enhance productivity, and drive success.
+We are an AI-driven company dedicated to revolutionizing the way people tackle challenges in niche fields. At Next Prompt, we harness the power of artificial intelligence to develop innovative solutions that simplify complex tasks, enhance productivity, and drive success.
 
 Our mission is to empower individuals and organizations by providing cutting-edge AI tools tailored to their specific needs. Whether you're dealing with intricate data analysis, process optimization, or specialized industry demands, our advanced AI technologies are designed to deliver precision, efficiency, and transformative results.
 
